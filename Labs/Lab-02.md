@@ -29,7 +29,7 @@ lab:
 
 ## 注意
 
-有关本实验的完整说明，请访问：https://github.com/MicrosoftLearning/DP-060ZH-Migrating-your-Database-to-Cosmos-DB/blob/master/Labs/Lab%202%20-%20Migrate%20MongoDB%20Workloads%20to%20Cosmos%20DB.md。
+有关本实验的完整说明，请访问：https://github.com/MicrosoftLearning/DP-060ZH-Migrating-your-Database-to-Cosmos-DB/blob/master/Labs/Lab%202%20-%20Migrate%20MongoDB%20Workloads%20to%20Cosmos%20DB.md 。
 
 本实验的所有文件都位于 https://github.com/MicrosoftLearning/DP-060ZH-Migrating-your-Database-to-Cosmos-DB。
 
