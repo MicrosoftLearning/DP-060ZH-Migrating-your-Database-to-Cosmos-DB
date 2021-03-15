@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '将 Cassandra 工作负荷迁移到 Cosmos DB'
     module: '模块 3:将 Cassandra 工作负荷迁移到 Cosmos DB'
