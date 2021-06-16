@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '将 MongoDB 迁移到 Cosmos DB'
     module: '模块 2:将 MongoDB 工作负荷迁移到 Cosmos DB'
