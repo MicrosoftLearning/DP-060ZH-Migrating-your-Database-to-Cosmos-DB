@@ -1,4 +1,10 @@
-﻿- [实验室 3：将 Cassandra 工作负载迁移到 Cosmos DB](#lab-3-migrate-cassandra-workloads-to-cosmos-db)
+---
+lab:
+    title: '将 Cassandra 工作负荷迁移到 Cosmos DB'
+    module: '模块 3:将 Cassandra 工作负荷迁移到 Cosmos DB'
+---
+
+- [实验 3：将 Cassandra 工作负荷迁移到 Cosmos DB](#lab-3-migrate-cassandra-workloads-to-cosmos-db)
   - [练习 1：设置](#exercise-1-setup)
     - [任务 1：创建资源组和虚拟网络](#task-1-create-a-resource-group-and-virtual-network)
     - [任务 2：创建 Cassandra 数据库服务器](#task-2-create-a-cassandra-database-server)
